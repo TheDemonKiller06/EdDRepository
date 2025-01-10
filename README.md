@@ -1,2 +1,2 @@
 # EdD
-no
+Hola, este es mi primer repositorio xd
